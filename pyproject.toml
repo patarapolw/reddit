@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "reddit"
+version = "0.1.0"
+description = ""
+authors = ["patarapolw <patarapolw@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+requests = "^2.19"
+
+[tool.poetry.dev-dependencies]
+jupyter = "^1.0"
+notebook = "^5.6"
